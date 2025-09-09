@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="Python 3.12 (AILearning) interpreter library" />
+  <library name="Python 3.13 interpreter library" />
+  <library name="Python 3.13 (portfolio2) interpreter library">
+    <archive path="C:/Users/oelsh/AppData/Local/Programs/Python/Python313/DLLs" />
+    <archive path="C:/Users/oelsh/AppData/Local/Programs/Python/Python313/Lib" />
+    <archive path="C:/Users/oelsh/AppData/Local/Programs/Python/Python313" />
+    <archive path="C:/Users/oelsh/IdeaProjects/portfolio2/.venv" />
+    <archive path="C:/Users/oelsh/IdeaProjects/portfolio2/.venv/Lib/site-packages" />
+    <archive path="C:/Users/oelsh/AppData/Local/JetBrains/IntelliJIdea2025.2/python_stubs/-2006351813" />
+    <archive path="C:/Users/oelsh/AppData/Roaming/JetBrains/IntelliJIdea2025.2/plugins/python-ce/helpers/typeshed/stdlib" />
+  </library>
+</eclipse-userlibraries>
+
