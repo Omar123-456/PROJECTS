@@ -359,3 +359,6 @@ if __name__ == '__main__':
 
 from Flask_Portfolio_Omar_Elsharoud import app as application
 
+import os
+port = int(os.environ.get("PORT", 5000))
+app.run(host="0.0.0.0", port=port)
